@@ -64,7 +64,7 @@ def get_readable_time(seconds: int) -> str:
     ping_time += ":".join(time_list)
     return ping_time
 PM_START_TEXT = """
-`𝐇𝐞𝐥𝐥𝐨` [👻](https://telegra.ph/file/b1ae67fad00c60d51a5f2.jpg) `𝐈'𝐚𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞 𝐁𝐨𝐭 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 ` *𝐀𝐥𝐢𝐳𝐚*
+`𝐇𝐞𝐥𝐥𝐨` [👻](https://telegra.ph/file/3f1332c88ad3ba074055b.jpg) `𝐈'𝐚𝐦 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞 𝐁𝐨𝐭 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 ` *𝐀𝐥𝐢𝐳𝐚*
 `𝐈'𝐌 𝐇𝐞𝐫𝐞 𝐓𝐨 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮 𝐌𝐚𝐧𝐚𝐠𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩𝐬! 𝐇𝐢𝐭` *📚𝐂𝐚𝐦𝐦𝐀𝐧𝐝𝐬*   
 """
 buttons = [
@@ -75,12 +75,12 @@ buttons = [
      [
         InlineKeyboardButton(text="𝐀𝐛𝐨𝐮𝐭💝", callback_data="evil_"),
         InlineKeyboardButton(
-            text="𝐌𝐨𝐝 𝐁𝐲", url=f"http://evilbotz.art.blog"
+            text="𝐌𝐨𝐝 𝐁𝐲", url=f"http://t.me/Xd_Lif"
         ),
      ],
      [  
-        InlineKeyboardButton(text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭🛠", url="https://t.me/EVIL_SUPPORT_CHAT"),
-        InlineKeyboardButton(text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://github.com/shrvan42/EvilBot"),
+        InlineKeyboardButton(text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭🛠", url="https://t.me/MISTY_SUPORTER"),
+        InlineKeyboardButton(text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/MISTY_SUPORT"),
     ], 
 
     [
@@ -88,11 +88,11 @@ buttons = [
     ],
 ]
 HELP_STRINGS = """
-`𝐇𝐞𝐲!.. 𝐈'𝐌` 👿 *𝐀𝐥𝐢𝐳𝐚* [👿](https://telegra.ph/file/a064bd8497a5f6f03b290.mp4)
+`𝐇𝐞𝐲!.. 𝐈'𝐌` 👿 *𝐀𝐥𝐢𝐳𝐚* [🔥](https://telegra.ph/file/3f1332c88ad3ba074055b.jpg)
 `𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐓𝐡𝐞 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐁𝐞𝐥𝐨𝐰 𝐓𝐨 𝐆𝐞𝐭 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐮𝐨𝐧 𝐀𝐛𝐨𝐮𝐭 𝐒𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐌𝐨𝐝𝐮𝐥𝐞𝐬...`"""
 𝐀𝐥𝐢𝐳𝐚_𝐈𝐌𝐆 = "https://telegra.ph/file/5dc8f5c53fb0c39ed983c.jpg"
 𝐃𝐎𝐍𝐀𝐓𝐄_𝐒𝐓𝐀𝐑𝐈𝐍𝐆 = """𝐇𝐞𝐲𝐚, 𝐆𝐥𝐚𝐝 𝐓𝐨 𝐇𝐞𝐫𝐞 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐃𝐨𝐧𝐚𝐭𝐞!
- 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐓𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐕𝐢𝐚 [𝐏𝐚𝐲𝐏𝐚𝐥](#) 𝐎𝐫 𝐁𝐲 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐢𝐧𝐠 𝐁𝐲 @shrvan42 \
+ 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐓𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐕𝐢𝐚 [𝐏𝐚𝐲𝐏𝐚𝐥](#) 𝐎𝐫 𝐁𝐲 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐢𝐧𝐠 𝐁𝐲 @Xd_Lif \
  𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐈𝐬𝐧𝐭 𝐀𝐥𝐰𝐚𝐲𝐬 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐥! \
  𝐓𝐡𝐨𝐬𝐞 𝐖𝐡𝐨 𝐂𝐚𝐧𝐧𝐨𝐭 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐧𝐞𝐓𝐚𝐫𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐀𝐫𝐞 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐔𝐬 𝐃𝐞𝐯𝐞𝐥𝐨𝐩 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐀𝐭 ."""
 IMPORTED = {}
@@ -307,7 +307,7 @@ def evil_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_My licensed under the GNU General Public License v3.0_ 
-                      here is this [Repository](https://github.com/shrvan42/EvilBot) .""",
+                      here is this [Repository](https://t.me/Xd_Lif) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -331,8 +331,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hey!.. I'm *Evil Robot*
-                 \nHere is the [Source Code](https://github.com/shrvan42/EvilBot) .""",
+            text=""" Hey!.. I'm *Aliza Robot*
+                 \nHere is the [COBRA>3](https://t.me/Xd_Lif) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
